@@ -1,0 +1,8 @@
+{
+      
+    "workbench.colorCustomizations": {
+        "editorBracketMatch.border": "#180d0d",
+        "editorBracketMatch.background": "#706870"
+    },
+    "git.ignoreLimitWarning": true
+}
