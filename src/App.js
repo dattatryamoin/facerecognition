@@ -36,7 +36,7 @@ class App extends Component {
   }
 
   onInputChange = (event) => {
-    this.state.box='';
+    this.setState({box:''});
     this.setState({ input: event.target.value });
   }
 
